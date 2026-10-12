@@ -242,4 +242,4 @@ This repository serves as the official landing page for **Visions of Mana**. The
 **Get the most recent version of Visions of Mana today!**
 
 ---
-**Last updated:** 2026-10-11 20:39:31 UTC
+**Last updated:** 2026-10-12 00:03:11 UTC
